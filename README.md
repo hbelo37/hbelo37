@@ -1,27 +1,21 @@
-# Harsh Belose
+# Hi, I'm Harsh 👋
 
-**Associate Product Manager @ [SMARTe](https://smarte.io)** · B2B Sales Intelligence
+Associate Product Manager at [SMARTe](https://smarte.io) working on B2B sales intelligence — turning raw company data into signal that GTM teams actually use.
 
-> I turn messy B2B data into GTM signal — and prototype the things I spec.
+I sit at the PM/builder overlap: I spec the feature, then build it.
 
----
+**What I work on**
 
-### 🧩 What I Own at SMARTe
+- AI Agents — context layers, intelligence configs, and prompt architecture for GTM outreach agents
+- LLM-powered search — NLP → structured B2B filters with confidence scoring and entity extraction
+- Open-source tools — [Account Scoring API](https://account-scoring-v2.onrender.com/docs) · [Buying Signals MCP](https://buying-signals.onrender.com/mcp) · gtm-signals (intent aggregator, WIP)
+- Product systems — usage-based billing, credit systems, LLM feature monetization
+- Side projects — [DietX](https://diet-x-ashy.vercel.app/) (AI meal planning app)
 
-- **AI Search** — NLP → structured filters for B2B prospecting (Groq + FastAPI)
-- **Context Center** — intelligence config layer for AI-driven sales outreach agents
-- **Billing & Credits** — usage-based pricing system for LLM features
-- **Website Visitors** — launched end-to-end
+## About Me
 
----
+- **APM** at SMARTe owning the app layer for B2B data and AI-powered GTM products
+- Building with Python, FastAPI, LangGraph, Groq API, and React
+- Focused on making LLM outputs structured, reliable, and actually useful for sales teams
 
-### 🛠️ Side Projects
-
-- [**DietX**](https://diet-x-ashy.vercel.app/) — AI meal planning app · React + Groq
-- **gtm-signals** *(WIP)* — open-source buying intent aggregator · LangGraph + FastAPI
-
----
-
-### 📬 Let's Talk
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh_Belo-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/)
